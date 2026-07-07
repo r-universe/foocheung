@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dumbbell"]
 	path = dumbbell
-	url = https://github.com/cran/dumbbell
+	url = https://github.com/foocheung/dumbbell
